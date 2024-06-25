@@ -1,16 +1,13 @@
-## Hi there 👋
+## Seja bem-vindo 🐶
 
-<!--
-**Pry13/Pry13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Meu nome é Priscila** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sou professora de Biologia e Tecnologia.
+- Sou estudante de Medicina Veterinária na Universidade Braz Cubas.
+- Estou no 8º semestre.
+- Estou aprendendo com vocês a mexer no Alura.
+ 
+## Eu amo animais
+
+![](https://media.tenor.com/EEsGwHVPdFgAAAAM/dog-smirk-dog.gif)
