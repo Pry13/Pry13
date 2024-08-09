@@ -5,7 +5,7 @@
 
 - Sou professora de Biologia e Tecnologia.
 - Sou estudante de Medicina Veterinária na Universidade Braz Cubas.
-- Estou no 8º semestre.
+- Estou no 9º semestre.
 - Estou aprendendo com vocês a mexer no Alura.
  
 ## Eu amo animais
